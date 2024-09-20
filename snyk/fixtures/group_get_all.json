@@ -1,0 +1,15 @@
+{
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "data": [
+    {
+      "type": "group",
+      "id": "341bdf0c-05d3-47d4-b522-97ba9552b796",
+      "attributes": {
+        "name": "Group1"
+      }
+    }
+  ],
+  "links": {}
+}

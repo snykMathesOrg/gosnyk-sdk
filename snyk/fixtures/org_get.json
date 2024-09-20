@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "8bcff720-99a4-4442-bb35-31f7a74d27b0",
+    "type": "org",
+    "attributes": {
+      "group_id": "341bdf0c-05d3-47d4-b522-97ba9552b796",
+      "is_personal": false,
+      "name": "org1",
+      "slug": "org1-abc"
+    }
+  },
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "self": "/rest/orgs/8bcff720-99a4-4442-bb35-31f7a74d27b0?version=2022-12-15~beta"
+  }
+}

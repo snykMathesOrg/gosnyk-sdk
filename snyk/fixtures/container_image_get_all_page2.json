@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "attributes": {
+        "layers": [
+          "sha256:831975710cf859f320ce4ef1a87723faf2e4485fc24489cd29a5a0689262fcf4"
+        ],
+        "names": [
+          "repo3/image1:latest",
+          "repo3/image1@sha256:ea3819ea282db5645d8b5b7a9af4e4e2ca98b43eab1d452cbb0f03b8b8909f19"
+        ],
+        "platform": "linux/amd64"
+      },
+      "id": "sha256:c508e6a5037546731633cb6a1fb5fdd5728e16866a5d89616eb6f19416fc6d82",
+      "relationships": {
+        "image_target_refs": {
+          "links": {}
+        }
+      },
+      "type": "container_image"
+    },
+    {
+      "attributes": {
+        "layers": [
+          "sha256:dbdf13aeccba94b14ee99c8ff9d2e00a9d73db11ec4e17060bf12cf44a2eb7eb"
+        ],
+        "names": [
+          "repo3/image2:latest",
+          "repo3/image2@sha256:b909538bbec3de6fdd270e5a413b7a6ca7bd06927bc7fec829100b52ed7fc864"
+        ],
+        "platform": "linux/amd64"
+      },
+      "id": "sha256:9e3abdb6b9880bf2dc19d4c5d4a1d20717b2e33d0d59faf086c8ad00fcf5ade1",
+      "relationships": {
+        "image_target_refs": {
+          "links": {}
+        }
+      },
+      "type": "container_image"
+    }
+  ],
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "self": "/rest/orgs/8bcff720-99a4-4442-bb35-31f7a74d27b0/container_images",
+    "prev": "/rest/orgs/8bcff720-99a4-4442-bb35-31f7a74d27b0/container_images?limit=10&ending_before=v2.h_QQfO-JW-AQ6jqaSxZqzFXuVcfz6uMnJ4cupPGUXmQ="
+  }
+}
